@@ -4,7 +4,7 @@
       <h1 class="text-5xl font-medium text-center">{{ recipe.name }}</h1>
       <img class="max-w-[40vw] rounded-xl my-5 mx-auto" :src="require(`@/assets/recipes_images/${recipe.image}`)"
         :alt="recipe.name" />
-      <p class="text-justify">{{ recipe.description }}</p>
+      <p class="text-center">{{ recipe.description }}</p>
       <h2 class="bg-zinc-200 py-3 my-5 text-2xl text-center font-medium rounded-md">Ingredientes:</h2>
       <ul class="list-disc ml-6">
         <li v-for="(item, index) in recipe.ingredients" :key="index">{{ item }}</li>
