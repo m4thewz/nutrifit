@@ -1,0 +1,271 @@
+[
+    {
+        "name": "Omelete rápido",
+        "route": "omelete-rapido",
+        "description": "Uma receita clássica e rápida feita com ovos batidos e grelhados, perfeita para um café da manhã nutritivo ou uma refeição leve a qualquer hora do dia.",
+        "image": "omelete.jpg",
+        "preparationTime": "4 minutos",
+        "ingredients": [
+            "2 ovos",
+            "1 fatia de presunto",
+            "1 pitada de sal",
+            "2 fatias de queijo",
+            "tempero verde a gosto",
+            "caldo de galinha a gosto"
+        ],
+        "preparation": [
+            "Bata os 2 ovos, pode ser na batedeira ou não.",
+            "Após ter batido bem, coloque-o na frigideira já untada com óleo, acrescente o sal, o presunto picado em quadradinhos e as duas fatias de queijo (não precisa picar o queijo).",
+            "Coloque os temperos a gosto, espere ficar firme, e vire o omelete.",
+            "Está pronto um omelete delicioso, bom apetite!"
+        ]
+    },
+    {
+        "name": "Pão integral de liquidificador",
+        "route": "pao-integral",
+        "description": "Experimente esse pão integral de liquidificador no seu próximo café da manhã. Combina com manteiga, creme de avelã, requeijão e muito mais.",
+        "image": "pao-integral.jpeg",
+        "preparationTime": "60 minutos",
+        "ingredients": [
+            "2 ovos (médios)",
+            "1/2 xícara de chá de azeite de oliva (120 ml)",
+            "1 colher de sopa de sal (9 gramas)",
+            "2 xícaras de chá de água morna (480 ml)",
+            "3/4 xícara de chá de açúcar mascavo (112 gramas)",
+            "2 sachês de fermento biológico seco (20 gramas)",
+            "3/4 xícara de chá de aveia em flocos grossos (75 gramas)",
+            "4 xícaras de chá de farinha de trigo 100% integral (600 gramas)",
+            "Linhaça e aveia em flocos para decorar (1 colher de sopa ou a gosto)"
+        ],
+        "preparation": [
+            "Unte duas formas de pão com óleo e farinha.",
+            "Amorne a água em um caneco em fogo baixo, até que possa colocar o dedo na água sem se queimar.",
+            "No liquidificador, adicione os ovos, azeite, sal e açúcar mascavo. Use a função pulsar para misturar.",
+            "Adicione a água morna, o fermento e a aveia em flocos. Bata apenas para incorporar os ingredientes.",
+            "Despeje a mistura numa tigela e acrescente a farinha aos poucos, mexendo delicadamente com uma colher de pau ou espátula.",
+            "Transfira a massa para as formas untadas e enfarinhadas, preenchendo até a metade. Alise a superfície com uma colher.",
+            "Salpique aveia em flocos e linhaça por cima dos pães.",
+            "Deixe o pão crescer por 40 minutos a 1 hora e 30 minutos em local quentinho (como dentro do forno desligado ou dentro de um saco plástico fechado).",
+            "Preaqueça o forno a 180ºC.",
+            "Asse os pães por 40 a 50 minutos ou até passar no teste do palito.",
+            "Retire do forno e deixe amornar antes de desenformar.",
+            "Desenforme e sirva quentinho com manteiga."
+        ]
+    },
+    {
+        "name": "Salada de Quinoa",
+        "route": "salada-de-quinoa",
+        "description": "Uma salada leve e nutritiva, perfeita para uma refeição rápida e saudável. A quinoa é uma excelente fonte de proteína e fibras.",
+        "image": "salada-quinoa.jpg",
+        "preparationTime": "15 minutos",
+        "ingredients": [
+            "1 xícara de quinoa cozida",
+            "1 pepino cortado em cubos",
+            "1 tomate picado",
+            "1/2 cebola roxa picada",
+            "Salsinha fresca picada",
+            "Azeite de oliva",
+            "Suco de limão",
+            "Sal e pimenta a gosto"
+        ],
+        "preparation": [
+            "Em uma tigela grande, misture a quinoa cozida, o pepino, o tomate e a cebola.",
+            "Tempere com a salsinha, azeite, suco de limão, sal e pimenta.",
+            "Misture bem e sirva frio."
+        ]
+    },
+    {
+        "name": "Wrap de Frango e Vegetais",
+        "route": "wrap-frango-vegetais",
+        "description": "Um wrap saudável e prático, recheado com frango grelhado e vegetais coloridos.",
+        "image": "wrap-frango.jpg",
+        "preparationTime": "20 minutos",
+        "ingredients": [
+            "Peito de frango cozido e desfiado",
+            "Tortilhas integrais",
+            "Alface picada",
+            "Tomate picado",
+            "Cenoura ralada",
+            "Iogurte natural",
+            "Mostarda",
+            "Sal e pimenta a gosto"
+        ],
+        "preparation": [
+            "Misture o frango desfiado com alface, tomate e cenoura.",
+            "Tempere com iogurte, mostarda, sal e pimenta.",
+            "Divida o recheio entre as tortilhas, enrole e sirva."
+        ]
+    },
+    {
+        "name": "Sopa de Lentilha",
+        "route": "sopa-lentilha",
+        "description": "Uma sopa reconfortante e rica em proteínas, ideal para os dias mais frios.",
+        "image": "sopa-lentilha.jpg",
+        "preparationTime": "30 minutos",
+        "ingredients": [
+            "1 xícara de lentilhas cozidas",
+            "1 cenoura picada",
+            "1 talo de salsão picado",
+            "1 cebola picada",
+            "2 dentes de alho picados",
+            "Caldo de legumes",
+            "Pimenta-do-reino e cominho em pó a gosto"
+        ],
+        "preparation": [
+            "Refogue a cebola e o alho em um pouco de azeite.",
+            "Adicione a cenoura e o salsão, e refogue por alguns minutos.",
+            "Acrescente as lentilhas e cubra com caldo de legumes.",
+            "Tempere com pimenta-do-reino e cominho.",
+            "Cozinhe até os vegetais ficarem macios e os sabores se combinarem."
+        ]
+    },
+    {
+        "name": "Espaguete Integral com Pesto",
+        "route": "espaguete-integral-pesto",
+        "description": "Um prato de massa saudável e saboroso, feito com espaguete integral e pesto caseiro.",
+        "image": "espaguete-pesto.jpg",
+        "preparationTime": "20 minutos",
+        "ingredients": [
+            "Espaguete integral",
+            "Folhas de manjericão",
+            "Alho",
+            "Castanhas ou nozes",
+            "Queijo parmesão ralado",
+            "Azeite de oliva",
+            "Sal e pimenta a gosto"
+        ],
+        "preparation": [
+            "Cozinhe o espaguete integral conforme as instruções da embalagem.",
+            "Em um processador, misture folhas de manjericão, alho, castanhas ou nozes, queijo parmesão e azeite.",
+            "Tempere com sal e pimenta e bata até obter uma consistência de pesto.",
+            "Misture o pesto com o espaguete cozido e sirva."
+        ]
+    },
+    {
+        "name": "Smoothie de Frutas",
+        "route": "smoothie-frutas",
+        "description": "Um smoothie refrescante e cheio de vitaminas, perfeito para um lanche rápido.",
+        "image": "smoothie-frutas.webp",
+        "preparationTime": "10 minutos",
+        "ingredients": [
+            "1 banana madura",
+            "1 xícara de morangos congelados",
+            "Suco de laranja",
+            "Iogurte natural"
+        ],
+        "preparation": [
+            "Em um liquidificador, combine a banana, os morangos, suco de laranja e iogurte.",
+            "Bata até obter uma mistura homogênea e cremosa.",
+            "Sirva imediatamente em um copo alto."
+        ]
+    },
+    {
+        "name": "Frango Assado com Legumes",
+        "route": "frango-assado-legumes",
+        "description": "Uma refeição completa em uma assadeira, fácil de preparar e muito saborosa.",
+        "image": "frango-legumes.jpg",
+        "preparationTime": "40 minutos",
+        "ingredients": [
+            "Peitos de frango",
+            "Batatas cortadas em cubos",
+            "Cenouras em rodelas",
+            "Brócolis",
+            "Azeite de oliva",
+            "Alecrim",
+            "Sal e pimenta a gosto"
+        ],
+        "preparation": [
+            "Em uma assadeira, disponha os peitos de frango, batatas, cenouras e brócolis.",
+            "Regue com azeite, tempere com alecrim, sal e pimenta.",
+            "Asse no forno pré-aquecido a 200°C por cerca de 30 minutos ou até dourar."
+        ]
+    },
+    {
+        "name": "Tigela de Buddha",
+        "route": "tigela-buddha",
+        "description": "Uma tigela colorida e equilibrada com grãos, vegetais e proteínas vegetais.",
+        "image": "tigela-buddha.jpg",
+        "preparationTime": "25 minutos",
+        "ingredients": [
+            "Quinoa cozida",
+            "Grão-de-bico cozido",
+            "Abobrinha grelhada",
+            "Tomate-cereja cortado ao meio",
+            "Espinafre fresco",
+            "Abacate fatiado",
+            "Molho de tahine ou iogurte"
+        ],
+        "preparation": [
+            "Em uma tigela, coloque a quinoa, o grão-de-bico, a abobrinha, o tomate-cereja, o espinafre e o abacate.",
+            "Regue com molho de tahine ou iogurte.",
+            "Sirva como uma refeição completa e nutritiva."
+        ]
+    },
+    {
+        "name": "Sanduíche de Atum com Abacate",
+        "route": "sanduiche-atum-abacate",
+        "description": "Um sanduíche simples e cheio de ômega-3, perfeito para um almoço rápido.",
+        "image": "sanduiche-atum.jpg",
+        "preparationTime": "10 minutos",
+        "ingredients": [
+            "Latas de atum em água",
+            "Abacate maduro amassado",
+            "Alface",
+            "Pão integral",
+            "Suco de limão",
+            "Sal e pimenta a gosto"
+        ],
+        "preparation": [
+            "Em uma tigela, misture o atum com abacate, suco de limão, sal e pimenta.",
+            "Espalhe a mistura sobre fatias de pão integral, coloque alface por cima e cubra com outra fatia de pão.",
+            "Corte ao meio e sirva."
+        ]
+    },
+    {
+        "name": "Ovos Mexidos com Vegetais",
+        "route": "ovos-mexidos-vegetais",
+        "description": "Uma versão saudável de ovos mexidos, com vegetais frescos.",
+        "image": "ovos-vegetais.webp",
+        "preparationTime": "15 minutos",
+        "ingredients": [
+            "Ovos",
+            "Tomate picado",
+            "Espinafre",
+            "Cogumelos fatiados",
+            "Cebola picada",
+            "Azeite de oliva",
+            "Sal e pimenta a gosto"
+        ],
+        "preparation": [
+            "Em uma frigideira, refogue a cebola em azeite.",
+            "Adicione os cogumelos e o tomate, e cozinhe por alguns minutos.",
+            "Adicione os ovos batidos, mexendo constantemente.",
+            "Tempere com sal e pimenta e adicione o espinafre por cima.",
+            "Cozinhe até os ovos estarem firmes e o espinafre murchar.",
+            "Sirva quente."
+        ]
+    },
+    {
+        "name": "Salada de Grão-de-Bico",
+        "route": "salada-grao-bico",
+        "description": "Uma salada nutritiva e saciante, perfeita como prato principal ou acompanhamento.",
+        "image": "salada-grao-bico.webp",
+        "preparationTime": "15 minutos",
+        "ingredients": [
+            "Grão-de-bico cozido",
+            "Pepino em cubos",
+            "Tomate picado",
+            "Pimentão vermelho em tiras",
+            "Cebola roxa fatiada",
+            "Azeitonas pretas",
+            "Vinagre balsâmico",
+            "Azeite de oliva",
+            "Sal e pimenta a gosto"
+        ],
+        "preparation": [
+            "Misture o grão-de-bico cozido com pepino, tomate, pimentão, cebola e azeitonas.",
+            "Tempere com vinagre balsâmico, azeite, sal e pimenta.",
+            "Deixe descansar por alguns minutos antes de servir."
+        ]
+    }
+]
