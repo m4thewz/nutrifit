@@ -267,5 +267,149 @@
             "Tempere com vinagre balsâmico, azeite, sal e pimenta.",
             "Deixe descansar por alguns minutos antes de servir."
         ]
+    },
+    {
+        "name": "Panquecas de Aveia e Banana",
+        "route": "panquecas-aveia-banana",
+        "description": "Panquecas saudáveis e deliciosas feitas com aveia e banana madura.",
+        "image": "panqueca-banana.png",
+        "preparationTime": "15 minutos",
+        "ingredients": [
+            "1 banana madura",
+            "1 xícara de aveia em flocos",
+            "2 ovos",
+            "Canela em pó (opcional)"
+        ],
+        "preparation": [
+            "Amasse a banana e misture com os ovos e a aveia.",
+            "Adicione a canela, se desejar.",
+            "Cozinhe em uma frigideira antiaderente até dourar dos dois lados."
+        ]
+    },
+    {
+        "name": "Salada de Lentilha e Beterraba",
+        "route": "salada-lentilha-beterraba",
+        "description": "Uma salada colorida e nutritiva com lentilhas e beterraba.",
+        "image": "salada-lentilha.webp",
+        "preparationTime": "20 minutos",
+        "ingredients": [
+            "1 xícara de lentilhas cozidas",
+            "1 beterraba cozida e cortada em cubos",
+            "Pepino em cubos",
+            "Queijo feta ou ricota (opcional)",
+            "Vinagrete (azeite, vinagre balsâmico, mostarda)"
+        ],
+        "preparation": [
+            "Misture todos os ingredientes em uma tigela.",
+            "Tempere com o vinagrete.",
+            "Sirva frio."
+        ]
+    },
+    {
+        "name": "Risoto de Legumes",
+        "route": "risoto-legumes",
+        "description": "Um risoto leve e cremoso feito com arroz integral e vegetais.",
+        "image": "risoto.jpg",
+        "preparationTime": "40 minutos",
+        "ingredients": [
+            "Arroz integral",
+            "Cenoura, ervilhas, brócolis (ou vegetais de sua escolha)",
+            "Caldo de legumes",
+            "Queijo parmesão (opcional)"
+        ],
+        "preparation": [
+            "Refogue os vegetais em um pouco de azeite.",
+            "Adicione o arroz e o caldo de legumes.",
+            "Cozinhe até o arroz ficar macio e cremoso.",
+            "Finalize com queijo parmesão, se desejar."
+        ]
+    },
+    {
+        "name": "Peito de Frango Grelhado",
+        "route": "peito-frango-grelhado",
+        "description": "Peito de frango grelhado com um toque cítrico.",
+        "image": "peito-frango-grelhado.jpg",
+        "preparationTime": "25 minutos",
+        "ingredients": [
+            "Peitos de frango",
+            "Suco e raspas de limão",
+            "Alho picado",
+            "Ervas frescas (como tomilho ou alecrim)"
+        ],
+        "preparation": [
+            "Tempere os peitos de frango com sal, pimenta, alho, suco e raspas de limão.",
+            "Grelhe até ficar dourado e cozido por dentro.",
+            "Regue com mais suco de limão ao servir."
+        ]
+    },
+    {
+        "name": "Bowl de Aveia com Frutas",
+        "route": "bowl-aveia-frutas",
+        "description": "Uma opção saudável de café da manhã com aveia e frutas frescas.",
+        "image": "bowl-frutas.jpg",
+        "preparationTime": "15 minutos",
+        "ingredients": [
+            "Aveia em flocos",
+            "Leite ou iogurte",
+            "Morangos, bananas, mirtilos",
+            "Mel ou maple syrup (opcional)"
+        ],
+        "preparation": [
+            "Cozinhe a aveia em leite até engrossar.",
+            "Sirva em uma tigela e cubra com frutas.",
+            "Adicione um pouco de mel ou maple syrup, se desejar."
+        ]
+    },
+    {
+        "name": "Peixe ao Forno com Legumes",
+        "route": "peixe-forno-legumes",
+        "description": "Filé de peixe assado com uma mistura de legumes.",
+        "image": "peixe.png",
+        "preparationTime": "30 minutos",
+        "ingredients": [
+            "Filés de peixe (tilápia, salmão)",
+            "Batatas, abobrinha, pimentões",
+            "Ervas frescas (salsa, coentro)"
+        ],
+        "preparation": [
+            "Tempere o peixe com sal, pimenta e limão.",
+            "Disponha em uma assadeira com os legumes cortados.",
+            "Asse até o peixe ficar cozido e os legumes macios."
+        ]
+    },
+    {
+        "name": "Tortilha de Legumes",
+        "route": "tortilha-legumes",
+        "description": "Uma tortilha leve e recheada com legumes.",
+        "image": "tortilha-legumes.jpg",
+        "preparationTime": "20 minutos",
+        "ingredients": [
+            "Ovos",
+            "Abobrinha ralada",
+            "Cenoura ralada",
+            "Cebola picada",
+            "Queijo ralado (opcional)"
+        ],
+        "preparation": [
+            "Misture os ovos com os legumes e queijo.",
+            "Cozinhe em uma frigideira até dourar dos dois lados."
+        ]
+    },
+    {
+        "name": "Bolinho de Lentilha",
+        "route": "bolinho-lentilha",
+        "description": "Bolinhos de lentilha assados e saborosos.",
+        "image": "bolinho-lentilha.jpeg",
+        "preparationTime": "35 minutos",
+        "ingredients": [
+            "Lentilhas cozidas",
+            "Cebola picada",
+            "Farinha de trigo",
+            "Temperos (cominho, coentro em pó)"
+        ],
+        "preparation": [
+            "Amasse as lentilhas com a cebola e temperos.",
+            "Modele os bolinhos e leve ao forno até dourar."
+        ]
     }
 ]
